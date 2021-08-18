@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048789065929",
+    "project_id": "notificationapp-vinicius",
+    "storage_bucket": "notificationapp-vinicius.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048789065929:android:2099519e6905b1c0a6ed18",
+        "android_client_info": {
+          "package_name": "one.digitalinnovation.applicationnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048789065929-62hbsd1oqvenevm57kc32j7bpf9aj7so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf2RHX4AmRnMAiY4Y-F_XILL1v6t6ah6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048789065929-62hbsd1oqvenevm57kc32j7bpf9aj7so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
